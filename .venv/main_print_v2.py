@@ -5,7 +5,7 @@ from rich.table import Table
 from rich.Panel import Panel
 
 # 변수
-name = "Alice"
+name = "Gi-Seok-Yun"
 age = 25
 score =95.5
 data ={"name": name, "age": age, "score": score}
